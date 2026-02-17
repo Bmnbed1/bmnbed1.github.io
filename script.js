@@ -28,8 +28,6 @@ function pointlessButton() {
     case 1000:
       z.innerHTML = "GO. BACK. TO. WORK"
       break;
-    case 2000:
-      z.innerHTML = "Kalei and Steph waz here"
     case 10000:
       z.innerHTML = "I give up. SMH"
       break;
